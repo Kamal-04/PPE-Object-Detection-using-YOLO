@@ -1,5 +1,5 @@
-train: "D:/PPE/train"
-val: "D:/PPE/valid"
+train: "ADD-PATH/train"
+val: "ADD-PATH/valid"
 
-nc: 12
-names: ['Hardhat', 'Mask', 'NO-Hardhat', 'NO-Mask', 'NO-Safety Vest', 'Person', 'Safety Cone', 'Safety Vest', 'machinery', 'vehicle','safety_shoe','no_safety_shoe']
+nc: 10
+names: ['Hardhat', 'Mask', 'NO-Hardhat', 'NO-Mask', 'NO-Safety Vest', 'Person', 'Safety Cone', 'Safety Vest', 'machinery', 'vehicle',]
