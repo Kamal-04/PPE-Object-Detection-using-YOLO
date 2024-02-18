@@ -8,5 +8,3 @@ Safety Cone
 Safety Vest 
 machinery 
 vehicle
-safety_shoes
-no_safety_shoes
